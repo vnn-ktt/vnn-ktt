@@ -1,4 +1,5 @@
 <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/headrz.png" alt="Hi, there!" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&color=F273F7&center=true&vCenter=true&random=true&width=800&height=100&lines=I'm+just+a+regular+everyday+coder+moth%40%23%24%25%26er;I+told+you+in+the+first+commit%2C+I'll+tell+you+in+another" alt="Typing SVG" />
 </a>
@@ -15,8 +16,9 @@
 </p>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vnn-ktt)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
 </p>
+
 <!--
 **vnn-ktt/vnn-ktt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
