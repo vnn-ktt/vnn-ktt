@@ -1,6 +1,6 @@
 <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/headrz.png" alt="Hi, there!" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&color=8613B6&center=true&vCenter=true&random=false&width=600&height=100&lines=I'm+just+a+regular+everyday+coder+moth%40%23%24%25%26er;I+told+you+in+the+first+commit%2C+I'll+tell+you+in+another" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&color=8613B6&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+just+a+regular+everyday+coder+moth%40%23%24%25%26er;I+told+you+in+the+first+commit%2C+I'll+tell+you+in+another" alt="Typing SVG" />
 </a>
 
 <!-- <p align="center">
