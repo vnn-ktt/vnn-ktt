@@ -1,8 +1,8 @@
 <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/headrz.png" alt="Hi, there!" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&color=F273F7&center=true&vCenter=true&random=true&width=900&height=150&lines=I+told+you+in+the+first+commit%2C+I'll+tell+you+in+another" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
+</p>
 
 <p align="center">
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/html5.svg" width="60" height="60" alt="html"/>
@@ -13,10 +13,6 @@
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/sass.svg" width="60" height="60" alt="sass"/>
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/webpack.svg" width="60" height="60" alt="webpack"/>
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/postgresql.svg" width="60" height="60" alt="postgresql"/>
-</p>
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
 </p>
 
 <!--
