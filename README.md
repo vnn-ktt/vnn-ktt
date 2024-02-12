@@ -4,7 +4,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/html5.svg" width="60" height="60" alt="html"/>
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/css3.svg" width="60" height="60" alt="css"/>
   <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/javascript.svg" width="60" height="60" alt="javascript"/>
