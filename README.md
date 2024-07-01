@@ -4,10 +4,10 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
 </p>
 
+<!--
 <p align="left">
   I currently live in St. Petersburg, Russia and am interested in web development🔭🌱
 </p>
-
 <ul>
   <li>💻 Frontend stack: Browser, HTML5, CSS3, JavaScript, Webpack, TypeScript</li>
   <li>💻 Backend stack: Browser, PHP, MySQL, Apache HTTP Server, Linux</li>
@@ -15,7 +15,6 @@
   <li>⚡ Patterns: SOLID, MVP, MVC</li>
   <li>⚡ Protocols: HTTP, HTTPS, TCP/IP, SSH, FTP, SFTP</li>
 </ul>
-
 <p align="left">
   1C-Bitrix Specialist Certificates:
   <ol>
@@ -24,10 +23,10 @@
     <li>The administrator.Modules: LRN-533400-41-427-8074430</li>
   </ol>
 </p>
-
 <p align="left">Speaking of me as a person, I consistently stay between an extrovert and an introvert, I make contact openly.💬</p>
 <p align="left">Emotionally stable even in difficult tasks: I try to decompose and solve them, and I am also punctual, I easily organize my time in Notion.</p>
 <p align="left">I am an adherent of an active lifestyle, I regularly play sports🏃‍♂️, and I am also fond of writing music🎸, which allows me to maintain balance in life!</p>
+-->
 
 <!--
 <p align="right">
