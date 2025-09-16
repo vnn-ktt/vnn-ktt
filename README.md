@@ -1,4 +1,4 @@
-<img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/headrz.png" alt="Hi, there!" />
+<!-- <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/headrz.png" alt="Hi, there!" /> -->
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
