@@ -1,51 +1,45 @@
-<!-- <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/headrz.png" alt="Hi, there!" /> -->
+# Hello, there! 👋
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=vnn-ktt" />
-</p>
+I am Ivan Platunov. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
-<!--
-<p align="left">
-  I currently live in St. Petersburg, Russia and am interested in web development🔭🌱
-</p>
-<ul>
-  <li>💻 Frontend stack: Browser, HTML5, CSS3, JavaScript, Webpack, TypeScript</li>
-  <li>💻 Backend stack: Browser, PHP, MySQL, Apache HTTP Server, Linux</li>
-  <li>⚡ Frameworks: React.js, 1C-Bitrix</li>
-  <li>⚡ Patterns: SOLID, MVP, MVC</li>
-  <li>⚡ Protocols: HTTP, HTTPS, TCP/IP, SSH, FTP, SFTP</li>
-</ul>
-<p align="left">
-  1C-Bitrix Specialist Certificates:
-  <ol>
-    <li> Content Manager: LRN-531204-34-703-8074430 </li>
-    <li>The administrator.Basic: LRN-532624-35-706-8074430</li>
-    <li>The administrator.Modules: LRN-533400-41-427-8074430</li>
-  </ol>
-</p>
-<p align="left">Speaking of me as a person, I consistently stay between an extrovert and an introvert, I make contact openly.💬</p>
-<p align="left">Emotionally stable even in difficult tasks: I try to decompose and solve them, and I am also punctual, I easily organize my time in Notion.</p>
-<p align="left">I am an adherent of an active lifestyle, I regularly play sports🏃‍♂️, and I am also fond of writing music🎸, which allows me to maintain balance in life!</p>
--->
+### 😄 Pronouns
+She/Her
 
-<!--
-<p align="right">
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/html5.svg" width="60" height="60" alt="html"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/css3.svg" width="60" height="60" alt="css"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/javascript.svg" width="60" height="60" alt="javascript"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/react.svg" width="60" height="60" alt="react"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/redux.svg" width="60" height="60" alt="redux"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/sass.svg" width="60" height="60" alt="sass"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/webpack.svg" width="60" height="60" alt="webpack"/>
-  <img src="https://github.com/vnn-ktt/vnn-ktt/blob/main/iconz/postgresql.svg" width="60" height="60" alt="postgresql"/>
-</p>
--->
+### 🌱 What do I do and What have I done? 
+
+- Mentor at OpenMined and Ex-Mentor at AnitaB Organisation for Open Source Hack 2020
+- Recipient of Twitter #DevelopHer India 2020 Scholarship, Bertelsmann Scholarship 2020 and Machine learning Scholarship, Microsoft Azure by Udacity 
+- Mentor and Project Admin at Kharagpur Winter of Code, IIT Kharagpur 2020-21, NJACK Winter of Code, IIT Patna 2020-21, Script Winter of Code 2021, Student Code-in 2020, Build with LetsUpgrade 2020, Contributors's Hack Hackin Codes 2020. 
+- Core Team Member at Developer Student Club, NIT Patna and Hackslash Mozilla Campus Club
+- Alexa Student Influencer 2020 and Chapter Lead at Alexa Dev Hub
+- Current Intern at GeeksForGeeks and Past Full Stack Development Intern at Dataly Services 
+- Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
+- Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
+
+
+### ⚡ One line that describes me best? 
+An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
+
+### 📫 How to reach me?
+- [Leetcode](https://leetcode.com/u/vnn-ktt/)
+- [Telegram](https://t.me/vnn_ktt) 
+- [Instagram](http://instagram.com/vnn_ktt) 
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+***
+
+
 
 <!--
-**vnn-ktt/vnn-ktt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
-- 🔭 I’m currently working with 1C-Bitrix, AO Greenatom
-- 🌱 I’m currently learning PHP, MySQL, Apache HTTP Server
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -53,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
