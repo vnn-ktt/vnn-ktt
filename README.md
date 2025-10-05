@@ -4,11 +4,10 @@ I'm a passionate developer working in Russia's nuclear energy sector. My work br
 
 ### 🔧 Technical Stack
 
-**Frontend:** JavaScript, React, Vue, Modern Web Frameworks
-**Backend:** Node.js, Nest.js, Express.js, REST APIs
-**Database:** PostgreSQL, MySQL, MongoDB Prisma ORM
-**Tools:** Docker, Git, CI/CD
-**Specialized:** High-reliability systems, Industrial software development
+- **Frontend:** JavaScript, React, Vue, Modern Web Frameworks
+- **Backend:** Node.js, Nest.js, Express.js, REST APIs
+- **Database:** PostgreSQL, MySQL, MongoDB Prisma ORM
+- **Tools:** Docker, Git, CI/CD, Postman
 
 ### 📫 How to reach me?
 - [Leetcode](https://leetcode.com/u/vnn-ktt/)
