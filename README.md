@@ -1,7 +1,5 @@
 # Hello, there! 👋
 
-## Ivan Platunov | Nuclear Industry Developer & Full Stack Engineer
-
 I'm a passionate developer working in Russia's nuclear energy sector. My work bridges cutting-edge web technologies with industrial applications.
 
 ### 🔧 Technical Stack
