@@ -9,7 +9,7 @@ I'm a passionate developer working in Russia's nuclear energy sector. My work br
 - **Frontend:** JavaScript, React, Vue, Modern Web Frameworks
 - **Backend:** Node.js, Nest.js, Express.js, REST APIs
 - **Database:** PostgreSQL, MySQL, MongoDB + Prisma ORM
-- **Tools:** Docker, Git, CI/CD, Postman
+- **Tools:** Linux, Docker, Git, CI/CD, Postman
 
 ### 📫 Как меня найти? | How to reach me?
 - [Leetcode](https://leetcode.com/u/vnn-ktt)
