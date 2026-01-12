@@ -7,7 +7,7 @@ I'm a passionate developer working in Russia's nuclear energy sector. My work br
 ### 🔧 Технический стек | Technical Stack
 
 - **Frontend:** JavaScript, React, Vue, Modern Web Frameworks
-- **Backend:** PHP, Node.js, REST APIs
+- **Backend:** PHP, Node.js, Golang, REST APIs
 - **Database:** PostgreSQL, MySQL, MongoDB + Prisma ORM
 - **Tools:** Linux, Docker, Git, CI/CD, Postman
 
