@@ -1,13 +1,13 @@
 # 👋 Салют! Hello, there! Guten Tag & 嗨
 
-Я увлеченный разработчик, работающий в российской атомной энергетике - Росатоме. В своей работе я совмещаю передовые веб-технологии с промышленными приложениями.
+Я увлеченный разработчик из России. В своей работе я совмещаю передовые веб-технологии с промышленными приложениями.
 
-I'm a passionate developer working in Russia's nuclear energy sector. My work bridges cutting-edge web technologies with industrial applications.
+I'm a passionate developer working in Russia. My work bridges cutting-edge web technologies with industrial applications.
 
 ### 🔧 Технический стек | Technical Stack
 
 - **Frontend:** JavaScript, React, Vue, Modern Web Frameworks
-- **Backend:** PHP, Node.js, Golang, REST APIs
+- **Backend:** Node.js, REST APIs
 - **Database:** PostgreSQL, MySQL, MongoDB + Prisma ORM
 - **Tools:** Linux, Docker, Git, CI/CD, Postman
 
